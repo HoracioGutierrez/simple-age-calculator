@@ -1,6 +1,6 @@
 # Age Calculator Demo Application
 
-This is a simple age calculator demo application that allows users to calculate their age based on their birthdate.
+This is a simple age calculator demo application that allows users to calculate their age based on their birthdate. You can view the live demo [here](https://simple-age-calculator-demo.vercel.app/).
 
 ## Features
 
